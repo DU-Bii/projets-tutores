@@ -5,7 +5,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 
 1. Paulette Lieby, IFB-core
 2. Jean-François DUfayard, IFB
-3. Frédéric de Lamotte, INRAe
+3. Frédéric de Lamotte, INRAe, (0000-0003-4234-1172 (https://orcid.org/0000-0003-4234-1172)
 4. Jacques van Helden, IFB-core, [0000-0002-8799-8584](https://orcid.org/0000-0002-8799-8584)
 5. Hélène Chiapello, IFB
 6. Bertrand Cosson, Université de Paris
