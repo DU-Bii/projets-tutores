@@ -17,7 +17,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 |------------|----------------------------|--------------------|
 | OPIDoR DMP | Outil de création de PGD, dépôt ***temporaire*** | <https://dmp.opidor.fr/> |
 | OPIDoR DMP | Une sélection de modèles de PGD | https://dmp.opidor.fr/public_templates... | 
-| OPIDoR DMP | Quelques PGDs redigés et publics | https://dmp.opidor.fr/public_plans... | 
+| OPIDoR DMP | Quelques PGDs rédigés et publics | https://dmp.opidor.fr/public_plans... | 
 
 
 ## Guide PGD : commencer à rédiger un Plan de Gestion de Données
