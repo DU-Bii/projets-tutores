@@ -1,7 +1,7 @@
 # Projets tutorés DUBii
 
-- [Logigramme de vos analyses](logigramme-de-vos-analyses)
-- [Plan de gestion des données](plan-de-gestion-des-donnees)
+- [Logigramme de vos analyses](#logigramme-de-vos-analyses)
+- [Plan de gestion des données](#plan-de-gestion-des-donnees)
 
 
 ## Logigramme de vos analyses
