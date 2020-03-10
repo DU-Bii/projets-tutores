@@ -1,7 +1,22 @@
-# projets-tutores-DUBii
+# Projets tutorés DUBii
+
+- [Logigramme de vos analyses](logigramme-de-vos-analyses)
+- [Plan de gestion des données](plan-de-gestion-des-donnees)
+
+
+## Logigramme de vos analyses
+
+Nous demandons à chacun de dessiner un organigramme conceptuel (logigramme, *flowchart*) qui exposera la logique de son workflow d'analyse, en utilisant l'outil [draw.io](https://draw.io/). 
+
+Votre logigramme pourra être complété au fil des cours, en ajoutant les différentes étapes et outils que vous envisagez d'utiliser. Il servira de base pour discuter de votre projet avec votre tuteur, et élaborer le workflow qui mettra ces analyses en oeuvre.  
+
+## Plan de gestion des données
+
+Au fil des semaines de formation, chaque apprenant sera amené à définir un plan de gestion des données (PGD, ou DMP pour Data Management Plan) pour son projet tutoré. 
+
 Informations concernant les projets tutorés du Diplôme Universitaire en Bioinformatique Intégrative
 
-## Intervenants
+### Intervenants
 
 1. Paulette Lieby, IFB-core
 2. Jean-François DUfayard, IFB
@@ -11,7 +26,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 6. Bertrand Cosson, Université de Paris
 7. Pierre Poulain, Université de Paris
 
-## Ressources
+### Ressources
 
 | Nom | Description | URL |
 |------------|----------------------------|--------------------|
@@ -20,14 +35,14 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 | OPIDoR DMP | Quelques PGDs rédigés et publics | <https://dmp.opidor.fr/public_plans> | 
 
 
-## Guide PGD : commencer à rédiger un Plan de Gestion de Données
+### Guide PGD : commencer à rédiger un Plan de Gestion de Données
 
 * s'assurer que l'on ait un compte pour accéder à DMP Opidor à <https://dmp.opidor.fr/> 
 * une fois connecté, aller sur l'onglet "Modèles de DMP" (cliquer) : s'affichera une liste de modèles PGD. Il s'agit de choisir un de ces modèles comme base du PGD à créer et rédiger
 * chercher le modèle "INRAE - Trame générique projet" (note : ceci n'est pas une obligation, on peut choisir un modèle alternatif pourvu qu'il permette de renseigner les éléments soulignés ci-dessous) ; cliquer sur l'icon "+" : ceci va créer un nouveau PGD dans votre compte avec comme base le modèle choisi.
 * la rédaction du PGD peut démarrer
 
-## Éléments qui doivent figurer à minima dans le plan
+### Éléments qui doivent figurer à minima dans le plan
 
 - une description des données
 	- types de données (généralement 2 ou 3 omiques différentes)
