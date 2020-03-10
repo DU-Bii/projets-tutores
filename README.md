@@ -1,7 +1,7 @@
 # Projets tutorés DUBii
 
 - [Logigramme de vos analyses](#logigramme-de-vos-analyses)
-- [Plan de gestion des données](#plan-de-gestion-des-donnees)
+- [Plan de gestion des données](#plan-de-gestion-des-données)
 
 
 ## Logigramme de vos analyses
@@ -13,6 +13,16 @@ Votre logigramme pourra être complété au fil des cours, en ajoutant les diff�
 ## Plan de gestion des données
 
 Au fil des semaines de formation, chaque apprenant sera amené à définir un plan de gestion des données (PGD, ou DMP pour Data Management Plan) pour son projet tutoré. 
+
+### Vidéoconférence pour le démarrage de votre PGD
+
+Nous organiserons le 13 mars de 10h à 12h une vidéoconférence pour vous aider à démarrer votre PGD. Deux heures ne suffiront pas, loin s'en fait, pour disposer d'un PGD complet, mais les animateurs pourront 
+
+- vous expliquer les princpies généraux
+- vous indiquer comment créer un premier jet de PGD sur OPIDoR
+- répondre à vos questions sur la façon d'organiser votre PGD.
+
+Vous pourrez ensuite poursuivre la description du PGD, qui vous demandera sans doute de discuter avec les différents acteurs ilmpliqués dans votre projet (plateformes de production des données, bioinformaticiens de vos labos, biologistes qui participent aux expériences, ...). 
 
 Informations concernant les projets tutorés du Diplôme Universitaire en Bioinformatique Intégrative
 
