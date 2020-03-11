@@ -59,31 +59,26 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 ### Éléments qui doivent figurer à minima dans le plan
 
 1. **Description des données**
-
 	- types de données (généralement 2 ou 3 omiques différentes)
 	- nombre d'échantillons, conditions, ...
 	- origine des données (quelles plateformes produisent chaque type de données)
 
 2. Estimation du **volume des données à téléverser** dans l'espace-projet
-
 	- données propres
 	- données importées (par exemples d'autres publications)
 
 3. Estimation du **volume des données générées** par les workflows pendant la phase d'analyse.
 
 4. Que deviendront les données à l'issue du projet tutoré (fin juin) ?
-
 	- Poursuite des analyses sur le cluster IFB-core (ou autre serveur utilisé pendant le tutorat) ?
 	- Rapatriement vers les ordinateurs de votre institut ?
 	- Transfert vers d'autres serveurs ?
 
 5. Y a-t-il une solution pour assurer la **conservation sécurisée** de ces données ?
-	
 	- pendant la durée du projet
 	- à l'issue du projet (éventuellement via les dépôts internationaux)
 	
 	**Avertissement / rappel** : les serveurs de calcul de l'IFB offrent un service de *stockage à chaud*, sans garantie de pouvoir les retrouver en cas de pépin (effacement accidentel, panne de nos machines...)
-
 
 6. **Préservation à long terme**. 
 
@@ -91,11 +86,9 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 	- Avez-vous identifié des centres de stockage qui assureront la préservation à long terme (indépendamment des dépôts) ?
 
 7. **Accessibilité**
-
 	- dans quels dépôts ces données seront-elles entreposées ?
 	- quel sera leur statut d'accessibilité ?
 	- à quel moment seront-elles transférées dans les dépôts ?
-	
 		- pendant le projet, avec un éventuel embargo ?
 		- à l'issue du projet ,
 
