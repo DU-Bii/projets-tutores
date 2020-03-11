@@ -64,7 +64,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 	- nombre d'échantillons, conditions, ...
 	- origine des données (quelles plateformes produisent chaque type de données)
 
-2. Estimatio du **volume des données à téléverser** dans l'espace-projet
+2. Estimation du **volume des données à téléverser** dans l'espace-projet
 
 	- données propres
 	- données importées (par exemples d'autres publications)
