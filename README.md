@@ -58,25 +58,45 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 
 ### Éléments qui doivent figurer à minima dans le plan
 
-- une description des données
+1. **Description des données**
+
 	- types de données (généralement 2 ou 3 omiques différentes)
 	- nombre d'échantillons, conditions, ...
 	- origine des données (quelles plateformes produisent chaque type de données)
 
-- volumes de données qui seront téléversées dans l'espace-projet
+2. Estimatio du **volume des données à téléverser** dans l'espace-projet
 
-- estimation du volume des données qui seront générées par les workflows pendant la phase d'analyse
+	- données propres
+	- données importées (par exemples d'autres publications)
 
-- que deviendront les données à l'issue du projet tutoré (fin juin) ?
+3. Estimation du **volume des données générées** par les workflows pendant la phase d'analyse.
 
-- y a-t-il une solution pour assurer la conservation (sécurisée) de ces données 
+4. Que deviendront les données à l'issue du projet tutoré (fin juin) ?
+
+	- Poursuite des analyses sur le cluster IFB-core (ou autre serveur utilisé pendant le tutorat) ?
+	- Rapatriement vers les ordinateurs de votre institut ?
+	- Transfert vers d'autres serveurs ?
+
+5. Y a-t-il une solution pour assurer la **conservation sécurisée** de ces données ?
+	
 	- pendant la durée du projet
 	- à l'issue du projet (éventuellement via les dépôts internationaux)
+	
+	**Avertissement / rappel** : les serveurs de calcul de l'IFB offrent un service de *stockage à chaud*, sans garantie de pouvoir les retrouver en cas de pépin (effacement accidentel, panne de nos machines...)
 
-- quelle partie des données devra être préservée, et quelle partie pourra être effacée à l'issue du projet
 
-- dans quels dépôts ces données seront-elles entreposéesà l'issue du projet ?
+6. **Préservation à long terme**. 
 
-- quel sera leur statut d'accessibilité ?
+	- A l'issue du projet, quelle partie des données devra être préservée, et quelle partie pourra être effacée ?
+	- Avez-vous identifié des centres de stockage qui assureront la préservation à long terme (indépendamment des dépôts) ?
+
+7. **Accessibilité**
+
+	- dans quels dépôts ces données seront-elles entreposées ?
+	- quel sera leur statut d'accessibilité ?
+	- à quel moment seront-elles transférées dans les dépôts ?
+	
+		- pendant le projet, avec un éventuel embargo ?
+		- à l'issue du projet ,
 
 
