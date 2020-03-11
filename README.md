@@ -53,7 +53,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 
 * s'assurer que l'on ait un compte pour accéder à DMP Opidor à <https://dmp.opidor.fr/> 
 * une fois connecté, aller sur l'onglet "Modèles de DMP" (cliquer) : s'affichera une liste de modèles PGD. Il s'agit de choisir un de ces modèles comme base du PGD à créer et rédiger
-* chercher le modèle "INRAE - Trame générique projet" (note : ceci n'est pas une obligation, on peut choisir un modèle alternatif pourvu qu'il permette de renseigner les éléments soulignés ci-dessous, ce que tous les modèles font, de manière différente) ; cliquer sur l'icon "+" : ceci va créer un nouveau PGD dans votre compte avec comme base le modèle choisi.
+* chercher le modèle "INRAE - Trame générique projet" (note : ceci n'est pas une obligation, on peut choisir un modèle alternatif ; tous les modèles permettent de renseigner les éléments soulignés ci-dessous, de manière plus ou moins explicite) ; cliquer sur l'icon "+" : ceci va créer un nouveau PGD dans votre compte avec comme base le modèle choisi.
 * la rédaction du PGD peut démarrer
 
 ### Éléments qui doivent figurer à minima dans le plan
