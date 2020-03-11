@@ -81,7 +81,6 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 	**Avertissement / rappel** : les serveurs de calcul de l'IFB offrent un service de *stockage à chaud*, sans garantie de pouvoir les retrouver en cas de pépin (effacement accidentel, panne de nos machines...)
 
 6. **Préservation à long terme**. 
-
 	- A l'issue du projet, quelle partie des données devra être préservée, et quelle partie pourra être effacée ?
 	- Avez-vous identifié des centres de stockage qui assureront la préservation à long terme (indépendamment des dépôts) ?
 
