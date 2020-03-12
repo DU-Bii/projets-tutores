@@ -23,7 +23,8 @@ Nous organiserons le **13 mars de 10h à 12h** une vidéoconférence pour vous a
 |-----------|----------------------------|
 | Mac ou Windows | <https://www.gotomeet.me/ifb-direction/dubii> |
 | Linux | <https://app.gotomeeting.com/749477405> |
-| Instructions détaillées | **<https://tinyurl.com/dubii-visio>** |
+| Accès téléphonique | Tél: +33 170 950 594. Access Code: 749-477-405 |
+| Instructions détaillées et dépannage | **<https://tinyurl.com/dubii-visio>** |
 
 Deux heures ne suffiront pas, loin s'en fait, pour disposer d'un PGD complet, mais les animateurs pourront 
 
