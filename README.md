@@ -17,9 +17,13 @@ Au fil des semaines de formation, chaque apprenant sera amené à définir un pl
 
 ### Vidéoconférence pour le démarrage de votre PGD
 
-Nous organiserons le 13 mars de 10h à 12h une vidéoconférence pour vous aider à démarrer votre PGD.
+Nous organiserons le **13 mars de 10h à 12h** une vidéoconférence pour vous aider à démarrer votre PGD.
 
-Instructions de connexion: **<https://tinyurl.com/dubii-visio>**
+| Votre OS | URL |
+|-----------|----------------------------|
+| Mac ou Windows | <https://www.gotomeet.me/ifb-direction/dubii> |
+| Linux | <https://app.gotomeeting.com/749477405> |
+| Instructions détaillées | **<https://tinyurl.com/dubii-visio>** |
 
 Deux heures ne suffiront pas, loin s'en fait, pour disposer d'un PGD complet, mais les animateurs pourront 
 
