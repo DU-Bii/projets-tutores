@@ -50,7 +50,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 
 | Nom | Description | URL |
 |------------|----------------------------|--------------------|
-| OPIDoR DMP | Outil de création de PGD, dépôt ***temporaire*** | <https://dmp.opidor.fr/plans> |
+| OPIDoR DMP | Outil de création de PGD, *prochainement depôt et maDMP* | <https://dmp.opidor.fr/plans> |
 | OPIDoR DMP | Une sélection de modèles de PGD | <https://dmp.opidor.fr/public_templates> | 
 | OPIDoR DMP | Quelques PGDs rédigés et publics | <https://dmp.opidor.fr/public_plans> | 
 |            | Quelques slides PGD | <https://github.com/DU-Bii/projets-tutores-DUBii/blob/master/12_gestion-des-donnees_pl.pdf> |
