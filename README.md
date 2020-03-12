@@ -98,9 +98,19 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 		- à l'issue du projet ,
 
 ## Description de vos métadonnées
+
 Nous vous demandons de créer un tableau avec un onglet par jeu de données  en précisant les informations suivantes pour chaque jeu de données :   
 - prévoir une ligne par échantillon de données
-- indiquer en colonnes la liste de toutes les métadonnées dont vous disposez sur les échantillons analysés
-Une évaluation de la volumétrie totale de chaque jeu de données sera aussi demandée.
+- une colonne par attribut: génotype, traitement, conditions, volume, numéro de réplique, identifiant fourni par la plateforme de production de données, ... ou toute autre information pertinente pour décrire un échantillon. 
+
+Préparez également un onglet séparé fournissant une description synthétique de chaque jeu de données: 
+- type 
+- volumétrie globale des données brutes
+- plateforme de production
+- site actuel de stockage
+- ...
+
+
+
 
 
