@@ -2,6 +2,7 @@
 
 - [Logigramme de vos analyses](#logigramme-de-vos-analyses)
 - [Plan de gestion des données](#plan-de-gestion-des-données)
+- [Description de vos métadonnées](#description-de-vos-métadonnées)
 
 
 ## Logigramme de vos analyses
@@ -90,5 +91,7 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 	- à quel moment seront-elles transférées dans les dépôts ?
 		- pendant le projet, avec un éventuel embargo ?
 		- à l'issue du projet ,
+
+# Description de vos métadonnées
 
 
