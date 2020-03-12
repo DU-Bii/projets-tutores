@@ -92,6 +92,8 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 		- pendant le projet, avec un éventuel embargo ?
 		- à l'issue du projet ,
 
-# Description de vos métadonnées
+## Description de vos métadonnées
+
+
 
 
