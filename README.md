@@ -17,13 +17,9 @@ Au fil des semaines de formation, chaque apprenant sera amené à définir un pl
 
 ### Vidéoconférence pour le démarrage de votre PGD
 
-Nous organiserons le **13 mars de 10h à 12h** une vidéoconférence pour vous aider à démarrer votre PGD.
+Nous organiserons le 13 mars de 10h à 12h une vidéoconférence pour vous aider à démarrer votre PGD.
 
-| Votre OS | URL |
-|-----------|----------------------------|
-| Mac ou Windows | <https://www.gotomeet.me/ifb-direction/dubii> |
-| Linux | <https://app.gotomeeting.com/749477405> |
-| Instructions détaillées | **<https://tinyurl.com/dubii-visio>** |
+Instructions de connexion: **<https://tinyurl.com/dubii-visio>**
 
 Deux heures ne suffiront pas, loin s'en fait, pour disposer d'un PGD complet, mais les animateurs pourront 
 
@@ -97,7 +93,9 @@ Informations concernant les projets tutorés du Diplôme Universitaire en Bioinf
 		- à l'issue du projet ,
 
 ## Description de vos métadonnées
-
-
+Nous vous demandons de créer un tableau avec un onglet par jeu de données  en précisant les informations suivantes pour chaques jeu de données :   
+- prévoir une ligne par échantillon de données
+- indiquer en colonnes la liste de toutes les métadonnées dont vous disposez sur les échantillons analysés
+Une évaluation de la volumétrie totale de chaque jeu de données sera aussi demandée.
 
 
