@@ -18,8 +18,8 @@ Nous organiserons le **12 mars de 10h30 à 12h** une vidéoconférence pour vous
 
 Les diapos présentées lors du webinaire de Paulette Lieby et Frédéric de Lamotte le 12 mars 2021 sont disponibles ici :
 
-[Présentation](projets_tutores/presa_PGD.pdf) - 
-[Introduction DMP Opidor](projets_tutores/Introduction_OPIDoR.pdf)
+[Présentation](https://du-bii.github.io/projets-tutores/presa_PGD.pdf) - 
+[Introduction DMP Opidor](https://du-bii.github.io/projets-tutores/Introduction_OPIDoR.pdf)
 
 Cette description servira d’une part à établir le dialogue triangulaire entre vous, votre tuteur de plateforme, et votre encadrant académique. Elle permettra à chacun de prendre connaissance de la nature des données, et de s’appuyer sur cette connaissance pour mettre concevoir le design des analyses bioinformatiques. Les documents que vous préparerez serviront en outre d’amorce pour constituer les “métadonnées” que vous devrez pouvoir produire pour soumettre vos données dans une base de données de référence.
 
