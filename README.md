@@ -1,15 +1,12 @@
 # Projets tutorés DUBii
 
-- [Logigramme de vos analyses](#logigramme-de-vos-analyses)
+
 - [Plan de gestion des données](#plan-de-gestion-des-données)
 - [Description de vos métadonnées](#description-de-vos-métadonnées)
+- [Logigramme de vos analyses](#logigramme-de-vos-analyses)
 
 
-## Logigramme de vos analyses
 
-Nous demandons à chacun de dessiner un organigramme conceptuel (logigramme, *flowchart*) qui exposera la logique de son workflow d'analyse, en utilisant l'outil [draw.io](https://draw.io/). 
-
-Votre logigramme pourra être complété au fil des cours, en ajoutant les différentes étapes et outils que vous envisagez d'utiliser. Il servira de base pour discuter de votre projet avec votre tuteur, et élaborer le workflow qui mettra ces analyses en oeuvre.  
 
 ## Plan de gestion des données
 
@@ -17,14 +14,14 @@ Au fil des semaines de formation, chaque apprenant sera amené à définir un pl
 
 ### Vidéoconférence pour le démarrage de votre PGD
 
-Nous organiserons le **13 mars de 10h à 12h** une vidéoconférence pour vous aider à démarrer votre PGD.
+Nous organiserons le **12 mars de 10h30 à 12h** une vidéoconférence pour vous aider à démarrer votre PGD.
 
-| Votre OS | URL |
-|-----------|----------------------------|
-| Mac ou Windows | <https://www.gotomeet.me/ifb-direction/dubii> |
-| Linux | <https://app.gotomeeting.com/749477405> |
-| Accès téléphonique | Tél: +33 170 950 594. Access Code: 749-477-405 |
-| Instructions détaillées et dépannage | **<https://tinyurl.com/dubii-visio>** |
+Les diapos présentées lors du webinaire de Paulette Lieby et Frédéric de Lamotte le 12 mars 2021 sont disponibles ici :
+
+[Présentation](projet_tutore/presa_PGD.pdf) - 
+[Introduction DMP Opidor](projet_tutore/Introduction_OPIDoR.pdf)
+
+Cette description servira d’une part à établir le dialogue triangulaire entre vous, votre tuteur de plateforme, et votre encadrant académique. Elle permettra à chacun de prendre connaissance de la nature des données, et de s’appuyer sur cette connaissance pour mettre concevoir le design des analyses bioinformatiques. Les documents que vous préparerez serviront en outre d’amorce pour constituer les “métadonnées” que vous devrez pouvoir produire pour soumettre vos données dans une base de données de référence.
 
 Deux heures ne suffiront pas, loin s'en fait, pour disposer d'un PGD complet, mais les animateurs pourront 
 
@@ -34,7 +31,6 @@ Deux heures ne suffiront pas, loin s'en fait, pour disposer d'un PGD complet, ma
 
 Vous pourrez ensuite poursuivre la description du PGD, qui vous demandera sans doute de discuter avec les différents acteurs ilmpliqués dans votre projet (plateformes de production des données, bioinformaticiens de vos labos, biologistes qui participent aux expériences, ...). 
 
-Informations concernant les projets tutorés du Diplôme Universitaire en Bioinformatique Intégrative
 
 ### Intervenants
 
@@ -110,7 +106,11 @@ Préparez également un onglet séparé fournissant une description synthétique
 - site actuel de stockage
 - ...
 
+## Logigramme de vos analyses
 
+Nous demandons à chacun de dessiner un organigramme conceptuel (logigramme, *flowchart*) qui exposera la logique de son workflow d'analyse, en utilisant l'outil [draw.io](https://draw.io/). 
+
+Votre logigramme pourra être complété au fil des cours, en ajoutant les différentes étapes et outils que vous envisagez d'utiliser. Il servira de base pour discuter de votre projet avec votre tuteur, et élaborer le workflow qui mettra ces analyses en oeuvre.  
 
 
 
